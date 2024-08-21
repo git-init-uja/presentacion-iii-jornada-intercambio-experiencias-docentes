@@ -2,7 +2,7 @@
 ### III Jornada de Intercambio de Experiencias Docentes de la EPSJ
 04-sep-2024
 
-<hr/>
+___
 
 #### Participantes: 
 * Ángel Inocencio Aguilera García (Dpto. Informática)
@@ -23,3 +23,18 @@
 * Pedro José Sánchez Sánchez (Dpto. Informática)
 * Luis Alfonso Ureña López (Dpto. Informática)
 
+___
+
+#### ¿Qué queremos?
+
+*Distribuir la adquisición de competencias en la herramienta Git entre las distintas asignaturas que participan en el proyecto*
+
+---
+
+#### ¿Cómo lo estamos haciendo?
+
+1. Medimos qué sabe de Git el estudiantado actualmente.
+2. Medimos qué estamos enseñando de Git actualmente.
+3. Consensuamos cómo podriamos introducir distintos aspectos de Git en las asignaturas que impartimos.
+4. Modificamos nuestras guías docentes para intentar reflejar dichos acuerdos.
+5. Volvemos a medir en qué medida han afectado estas medidas al conocimiento y uso de Git por parte del alumnado.
