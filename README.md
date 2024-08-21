@@ -38,3 +38,34 @@ ___
 3. Consensuamos cómo podriamos introducir distintos aspectos de Git en las asignaturas que impartimos.
 4. Modificamos nuestras guías docentes para intentar reflejar dichos acuerdos.
 5. Volvemos a medir en qué medida han afectado estas medidas al conocimiento y uso de Git por parte del alumnado.
+
+---
+
+#### ¿Cómo lo financiamos?
+
+Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
+
+    “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas para control de versiones en titulaciones con competencias en programación de ordenadores. (PIMED22_202224)”
+
+* f
+* Solicitado en diciembre de 2022 para ser ejecutado durante los cursos 23/24 y 24/25.
+* Dotado con 1.795,00€. 
+    * Ícaro: 795,00€.
+    * Difusión: 1.000,00€.
+
+
+---
+
+#### Resultados
+
+1. Mapa del estado actual de la enseñanza de Git
+![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual.png)
+
+2. Conceptos más difíciles de utilizar por parte del alumnado
+
+![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles.png)
+
+
+
+
+
