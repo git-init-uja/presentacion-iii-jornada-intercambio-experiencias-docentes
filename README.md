@@ -69,10 +69,14 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 #### Resultados
 
 1. Mapa del estado actual de la enseñanza de Git
-![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual.png)
+![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual-sin-pie.png)
+
+
+**Ilustración 2**. Mapa de uso de Git en las distintas titulaciones involucradas en el proyecto. En rojo, negrita y subrayado las asignaturas donde no se hace uso de Git. En amarillo, negrita y sin subrayar las que hacen un uso básico/medio de Git. En verde, negrita y cursiva las que hacen un uso avanzado de git.
 
 2. Conceptos más difíciles de utilizar por parte del alumnado
-![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles.png)
+![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles-sin-pie.png)
+**Ilustración 3**. Conceptos más difíciles de entender por parte del alumnado en relación a Git.
 
 
 
