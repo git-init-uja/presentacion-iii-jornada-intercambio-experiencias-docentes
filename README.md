@@ -55,7 +55,7 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
 
 * Solicitado en diciembre de 2022 para ser ejecutado durante los cursos 23/24 y 24/25.
-* 
+* 17 docentes (+2 de colaboradores), 16 asignaturas, 4 titulaciones (grado y master).
 * Dotado con 1.795,00€. 
     * Ícaro: 795,00€.
     * Difusión: 1.000,00€.
