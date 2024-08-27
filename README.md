@@ -72,7 +72,7 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 ![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual-sin-pie.png)
 
 
-**Ilustración 2**. Mapa de uso de Git en las distintas titulaciones involucradas en el proyecto. En rojo, negrita y subrayado las asignaturas donde no se hace uso de Git. En amarillo, negrita y sin subrayar las que hacen un uso básico/medio de Git. En verde, negrita y cursiva las que hacen un uso avanzado de git.
+**Ilustración 2**. Mapa de uso de Git en las distintas titulaciones involucradas en el proyecto. En <span style="background-color: rgba(255,0,0,0.2); font-weight: bold;text-decoration: underline;">rojo, negrita y subrayado</span> las asignaturas donde no se hace uso de Git. <span style="background-color: rgba(255,255,0,0.2); font-weight: bold;text-decoration: none;">En amarillo, negrita y sin subrayar</span> las que hacen un uso básico/medio de Git. <span style="background-color: rgba(0,255,0,0.2); font-weight: bold; font-style: italic;">En verde, negrita y cursiva</span> las que hacen un uso avanzado de git.
 
 2. Conceptos más difíciles de utilizar por parte del alumnado
 ![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles-sin-pie.png)
