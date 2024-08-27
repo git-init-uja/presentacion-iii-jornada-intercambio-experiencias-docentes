@@ -53,6 +53,9 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
     “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas para control de versiones en titulaciones con competencias en programación de ordenadores. (PIMED22_202224)”
 
+![Qué es Git](./assets/img/git.png)
+**Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
+
 
 * Solicitado en diciembre de 2022 para ser ejecutado durante los cursos 23/24 y 24/25.
 * 17 docentes (+2 de colaboradores), 16 asignaturas, 4 titulaciones (grado y master).
