@@ -57,11 +57,11 @@ ___
 ## ¿Cómo lo financiamos?
 
 Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
-
+<pre>
     “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas 
     para control de versiones en titulaciones con competencias en 
     programación de ordenadores. (PIMED22_202224)”
-
+</pre>
 
 
 * Solicitado en diciembre de 2022 para ser ejecutado durante los cursos 23/24 y 24/25.
