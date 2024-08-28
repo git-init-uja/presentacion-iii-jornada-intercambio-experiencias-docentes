@@ -1,3 +1,9 @@
+<style>
+    .caption {
+        margin-top: 0.2em;
+        font-size: small;
+    }
+</style>
 # Proyecto coordinado para la enseñanza de la herramienta Git en titulaciones de Grado y Máster
 ### III Jornada de Intercambio de Experiencias Docentes de la EPSJ
 04-sep-2024
@@ -30,7 +36,7 @@ ___
 *Distribuir la adquisición de competencias en la herramienta **Git** entre las distintas asignaturas que participan en el proyecto PIMED22_202224.*
 
 ![Qué es Git](./assets/img/git.png)
-**Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
+<p class="caption"> **Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).</p>
 
 ---
 
@@ -81,6 +87,7 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
 ###### 2. 🤔 - Conceptos más difíciles de utilizar por parte del alumnado
 ![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles-sin-pie.png)
+
 **Ilustración 3**. Conceptos más difíciles de entender por parte del alumnado en relación a Git.
 
 ###### 3. 😱 - Git en las guías docentes
