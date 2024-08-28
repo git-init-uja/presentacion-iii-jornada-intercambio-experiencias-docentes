@@ -73,29 +73,38 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
 ## ¿Qué resultados hemos obtenido hasta ahora?
 
-### 1. 🙂 -  Mapa del estado actual de la enseñanza de Git 
+### a) 🙂 -  Mapa del estado actual de la enseñanza de Git 
 ![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual-sin-pie.png)
 
 
 **Ilustración 2**. Mapa de uso de Git en las distintas titulaciones involucradas en el proyecto. En <span style="background-color: rgba(255,0,0,0.2); font-weight: bold;text-decoration: underline;">rojo, negrita y subrayado</span> las asignaturas donde no se hace uso de Git. <span style="background-color: rgba(255,255,0,0.2); font-weight: bold;text-decoration: none;">En amarillo, negrita y sin subrayar</span> las que hacen un uso básico/medio de Git. <span style="background-color: rgba(0,255,0,0.2); font-weight: bold; font-style: italic;">En verde, negrita y cursiva</span> las que hacen un uso avanzado de git.
 
-### 2. 🤔 - Conceptos más difíciles de utilizar por parte del alumnado
+### b) 🤔 - Conceptos más difíciles de utilizar por parte del alumnado
 ![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles-sin-pie.png)
 
 **Ilustración 3**. Conceptos más difíciles de entender por parte del alumnado en relación a Git.
 
-### 3. 😱 - Git en las guías docentes
+### c) 😱 - Git en las guías docentes
 
 De las 16 asignaturas participantes, **SOLO 6** incluyen explícitamente el uso de Git en las Guías docentes para el curso 2024/2025.
 
-### 4. 📚 - Repositorio categorizado de recursos multimedia
+### d) 📚 - Repositorio categorizado de recursos multimedia
 
 Disponible en https://vrivas.github.io/git-init-uja-resrepo/
 
 ![Repositorio categorizado de recursos multimedia sobre Git](./assets/img/git-init-uja-resrepo.png)
 **Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git
 
-### 5. 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
+### e) 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
 
 El Departamento de Informática ha aceptado la impartición de un breve curso sobre los principios básicos de Git dentro de su Plan de Actualización y Mejora Docente e Investigadora.
 
+---
+
+## ¿Qué nos queda por hacer?
+
+* Implementar en las asignaturas lo que hemos indicado en las guías.
+* Volver a medir los conocimientos del estudiantado y del profesorado y medir diferencias.
+* Mejorar nuestro repositorio de recursos multimedia.
+* Publicar en congresos/revistas del ramo.
+* Y pedir otro PIMED como continuación del actual.
