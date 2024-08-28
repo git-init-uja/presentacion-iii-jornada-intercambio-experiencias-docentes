@@ -27,18 +27,25 @@ ___
 
 #### ¿Qué queremos?
 
-*Distribuir la adquisición de competencias en la herramienta Git entre las distintas asignaturas que participan en el proyecto PIMED22_202224.*
+*Distribuir la adquisición de competencias en la herramienta **Git** entre las distintas asignaturas que participan en el proyecto PIMED22_202224.*
+
+![Qué es Git](./assets/img/git.png)
+**Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
 
 ---
 
-#### ¿Cómo lo estamos haciendo?
-```
+#### Hoja de Ruta
+<pre style="text-align: left; line-height: 0.9em;">
        +-----------------+       +---------------+       +--------------+
- +---->| ¿Dónde estamos? | ----> | ¿Dónde vamos? | ----> | ¿Cómo vamos? | -----+
- |     +-----------------+       +---------------+       +--------------+      |
- |                                                                             |
- +-----------------------------------------------------------------------------+
-```
+       |                 |       |               |       |              |
+ +---->| ¿Dónde estamos? | ----> | ¿Dónde vamos? | ----> | ¿Cómo vamos? | --->---+
+ |     |                 |       |               |       |              |        |
+ |     +-----------------+       +---------------+       +--------------+        |
+ |                                                                               |
+ |                                                                               |
+ +---------------------------------------<---------------------------------------+
+</pre>
+
 1. Medimos qué sabe de Git el estudiantado actualmente.
 2. Medimos qué estamos enseñando de Git actualmente y qué es lo que más les cuesta aprender.
 3. Consensuamos cómo podriamos introducir los distintos aspectos de Git en las asignaturas que impartimos.
@@ -53,8 +60,6 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
     “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas para control de versiones en titulaciones con competencias en programación de ordenadores. (PIMED22_202224)”
 
-![Qué es Git](./assets/img/git.png)
-**Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
 
 
 * Solicitado en diciembre de 2022 para ser ejecutado durante los cursos 23/24 y 24/25.
