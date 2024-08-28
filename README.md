@@ -92,10 +92,8 @@ De las 16 asignaturas participantes, **SOLO 6** incluyen explícitamente el uso 
 
 ### d) 📚 - Repositorio categorizado de recursos multimedia
 
-Disponible en https://vrivas.github.io/git-init-uja-resrepo/
-
 ![Repositorio categorizado de recursos multimedia sobre Git](./assets/img/git-init-uja-resrepo.png)
-**Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git
+**Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git. Disponible en https://vrivas.github.io/git-init-uja-resrepo/ .
 
 ### e) 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
 
