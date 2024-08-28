@@ -58,7 +58,9 @@ ___
 
 Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
-    “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas para control de versiones en titulaciones con competencias en programación de ordenadores. (PIMED22_202224)”
+    “git-init-UJA: desarrollo de itinerarios formativos sobre herramientas 
+    para control de versiones en titulaciones con competencias en 
+    programación de ordenadores. (PIMED22_202224)”
 
 
 
