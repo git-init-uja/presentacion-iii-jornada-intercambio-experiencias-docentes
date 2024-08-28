@@ -92,6 +92,8 @@ De las 16 asignaturas participantes, **SOLO 6** incluyen explícitamente el uso 
 Disponible en https://vrivas.github.io/git-init-uja-resrepo/
 
 ![Repositorio categorizado de recursos multimedia sobre Git](./assets/img/git-init-uja-resrepo.png)
-**Ilustración 4**. Repositorio de recursos multimedia sobre Git
+**Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git
 
-<iframe src="https://vrivas.github.io/git-init-uja-resrepo/"></iframe>
+##### 5. 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
+
+El Departamento de Informática ha aceptado la impartición de un breve curso sobre los principios básicos de Git dentro de su Plan de Actualización y Mejora Docente e Investigadora.
