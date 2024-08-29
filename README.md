@@ -30,6 +30,7 @@ ___
 *Distribuir la adquisición de competencias en la herramienta **Git** entre las distintas asignaturas que participan en el proyecto PIMED22_202224.*
 
 ![Qué es Git](./assets/img/git.png)
+
 **Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
 
 ---
@@ -93,6 +94,7 @@ De las 16 asignaturas participantes, **SOLO 6** incluyen explícitamente el uso 
 ### d) 📚 - Repositorio categorizado de recursos multimedia
 
 ![Repositorio categorizado de recursos multimedia sobre Git](./assets/img/git-init-uja-resrepo.png)
+
 **Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git. Disponible en https://vrivas.github.io/git-init-uja-resrepo/ .
 
 ### e) 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
@@ -125,12 +127,15 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 (https://usesignhouse.com/blog/github-stats/)
 
 ![Número de usuarios registrados en GitHub](./assets/img/usuarios-git.jpg)
+
 **Ilustración 5**. Número de usuarios registrados en GitHub. 
 
 ![Número de repositorios en GitHub](./assets/img/repositorios-git.jpg)
+
 **Ilustración 6**. Número de repositorios existentes en GitHub. 
 
 ![JavaScript: lenguaje más utilizado en GitHub](./assets/img/javascript-git.jpg)
+
 **Ilustración 7**. JavaScript: lenguaje más utilizado en GitHub. 
 
 * Ejemplo de desarrollo de esta presentación: https://github.com/git-init-uja/presentacion-iii-jornada-intercambio-experiencias-docentes/network
