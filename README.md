@@ -120,5 +120,18 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 * 
 ---
 ## Bonus track: Git
+
+* ¿Por qué es importante Git?
+(https://usesignhouse.com/blog/github-stats/)
+
+![Número de usuarios registrados en GitHub](./assets/img/usuarios-git.svg)
+**Ilustración 5**. Número de usuarios registrados en GitHub. 
+
+![Número de repositorios en GitHub](./assets/img/repositorios-git.svg)
+**Ilustración 6**. Número de repositorios existentes en GitHub. 
+
+![JavaScript: lenguaje más utilizado en GitHub](./assets/img/javascript-git.svg)
+**Ilustración 7**. JavaScript: lenguaje más utilizado en GitHub. 
+
 * Ejemplo de desarrollo de esta presentación: https://github.com/git-init-uja/presentacion-iii-jornada-intercambio-experiencias-docentes/network
 * Breve masterclass sobre Git: https://github.com/vrivas/git-rudimentos-masterclass/blob/main/README.md
