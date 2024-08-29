@@ -124,13 +124,13 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 * ¿Por qué es importante Git?
 (https://usesignhouse.com/blog/github-stats/)
 
-![Número de usuarios registrados en GitHub](./assets/img/usuarios-git.svg)
+![Número de usuarios registrados en GitHub](./assets/img/usuarios-git.jpg)
 **Ilustración 5**. Número de usuarios registrados en GitHub. 
 
-![Número de repositorios en GitHub](./assets/img/repositorios-git.svg)
+![Número de repositorios en GitHub](./assets/img/repositorios-git.jpg)
 **Ilustración 6**. Número de repositorios existentes en GitHub. 
 
-![JavaScript: lenguaje más utilizado en GitHub](./assets/img/javascript-git.svg)
+![JavaScript: lenguaje más utilizado en GitHub](./assets/img/javascript-git.jpg)
 **Ilustración 7**. JavaScript: lenguaje más utilizado en GitHub. 
 
 * Ejemplo de desarrollo de esta presentación: https://github.com/git-init-uja/presentacion-iii-jornada-intercambio-experiencias-docentes/network
