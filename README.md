@@ -117,7 +117,6 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 * Hay que diseñar itinerarios formativos pensando que el alumnado va a realizar las asignaturas según se establece en el plan de estudios...
 * ... pero sabiendo que el alumnado **NO** va a realizar las asignaturas según se establece en el plan de estudios
 * Valorar crear recursos vs. recopilar recursos.
-* 
 ---
 ## Bonus track: Git
 
