@@ -11,14 +11,15 @@ ___
 ___
 
 ## ¿Qué queremos?
-
+    
 *Distribuir la adquisición de competencias en la herramienta **Git** entre las distintas asignaturas que participan en el proyecto PIMED22_202224.*
 
+---
 ![Qué es Git](./assets/img/git.png)
+
 **Ilustración 1.** ¿Qué es Git? (https://git-scm.com, 27-ago-2024).
 
 ---
-
 ## ¿Cómo pretendemos hacerlo?
 <pre style="text-align: left; line-height: 0.9em;">
        +-----------------+       +---------------+       +--------------+
@@ -60,32 +61,32 @@ Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 
 ## ¿Qué resultados hemos obtenido hasta ahora?
 
-### a) 🙂 -  Mapa del estado actual de la enseñanza de Git 
+### Resultado 1. Mapa del estado actual de la enseñanza de Git 🙂
 ![Mapa del estado actual de la enseñanza de Git](./assets/img/mapa-git-actual-sin-pie.png)
 
 
 **Ilustración 2**. Mapa de uso de Git en las distintas titulaciones involucradas en el proyecto. En <span style="background-color: rgba(255,0,0,0.2); font-weight: bold;text-decoration: underline;">rojo, negrita y subrayado</span> las asignaturas donde no se hace uso de Git. <span style="background-color: rgba(255,255,0,0.2); font-weight: bold;text-decoration: none;">En amarillo, negrita y sin subrayar</span> las que hacen un uso básico/medio de Git. <span style="background-color: rgba(0,255,0,0.2); font-weight: bold; font-style: italic;">En verde, negrita y cursiva</span> las que hacen un uso avanzado de git.
 
-### b) 🤔 - Conceptos más difíciles de utilizar por parte del alumnado
+### Resultado 2. Conceptos más difíciles de utilizar por parte del alumnado 🤔
 ![Conceptos más difíciles de utilizar por parte del alumnado](./assets/img/conceptos-dificiles-sin-pie.png)
 
 **Ilustración 3**. Conceptos más difíciles de entender por parte del alumnado en relación a Git.
 
-### c) 😱 - Git en las guías docentes
+### Resultado 3. Git en las guías docentes 😱
 
 De las 16 asignaturas participantes, **SOLO 6** incluyen explícitamente el uso de Git en las Guías docentes para el curso 2024/2025.
 
-### d) 📚 - Repositorio categorizado de recursos multimedia
+### Resultado 4. Repositorio categorizado de recursos multimedia 📚
 
 ![Repositorio categorizado de recursos multimedia sobre Git](./assets/img/git-init-uja-resrepo.png)
+
 **Ilustración 4**. Repositorio etiquetado de recursos multimedia sobre Git. Disponible en https://vrivas.github.io/git-init-uja-resrepo/ .
 
-### e) 👨🏼‍🏫 - Propuesta de curso para impartir a miembros del Departamento.
+### Resultado 5. Propuesta de curso para impartir a miembros del Departamento. 👨🏼‍🏫
 
 El Departamento de Informática ha aceptado la impartición de un breve curso sobre los principios básicos de Git dentro de su Plan de Actualización y Mejora Docente e Investigadora.
 
 ---
-
 ## ¿Qué nos queda por hacer?
 
 * Implementar en las asignaturas lo que hemos indicado en las guías.
@@ -97,11 +98,12 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 ---
 ## Conclusiones
 
-* Coordinarse es complicado.
-* Añadir nuevos contenidos a las asignaturas es complicado.
-* Hay que diseñar itinerarios formativos pensando que el alumnado va a realizar las asignaturas según se establece en el plan de estudios...
-* ... pero sabiendo que el alumnado **NO** va a realizar las asignaturas según se establece en el plan de estudios
-* Valorar crear recursos vs. recopilar recursos.
+* **Coordinarse** es complicado.
+* Añadir **nuevos contenidos** a las asignaturas es complicado.
+* Hay que diseñar itinerarios formativos pensando que el alumnado **va a realizar** las asignaturas según se establece en el plan de estudios...
+* ... pero sabiendo que el alumnado **NO va a realizar** las asignaturas según se establece en el plan de estudios
+* Valorar crear recursos vs. **recopilar recursos**.
+
 ---
 ## Bonus track: Git
 
