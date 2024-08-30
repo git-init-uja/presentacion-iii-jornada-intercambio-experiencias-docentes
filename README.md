@@ -117,8 +117,23 @@ El Departamento de Informática ha aceptado la impartición de un breve curso so
 * Hay que diseñar itinerarios formativos pensando que el alumnado va a realizar las asignaturas según se establece en el plan de estudios...
 * ... pero sabiendo que el alumnado **NO** va a realizar las asignaturas según se establece en el plan de estudios
 * Valorar crear recursos vs. recopilar recursos.
-* 
 ---
 ## Bonus track: Git
+
+* ¿Por qué es importante Git?
+(https://usesignhouse.com/blog/github-stats/)
+
+![Número de usuarios registrados en GitHub](./assets/img/usuarios-git.png)
+
+**Ilustración 5**. Número de usuarios registrados en GitHub. 
+
+![Número de repositorios en GitHub](./assets/img/repositorios-git.png)
+
+**Ilustración 6**. Número de repositorios existentes en GitHub. 
+
+![JavaScript: lenguaje más utilizado en GitHub](./assets/img/javascript-git.png)
+
+**Ilustración 7**. JavaScript: lenguaje más utilizado en GitHub. 
+
 * Ejemplo de desarrollo de esta presentación: https://github.com/git-init-uja/presentacion-iii-jornada-intercambio-experiencias-docentes/network
 * Breve masterclass sobre Git: https://github.com/vrivas/git-rudimentos-masterclass/blob/main/README.md
