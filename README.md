@@ -4,24 +4,9 @@
 
 ___
 
-## Participantes: 
-* Ángel Inocencio Aguilera García (Dpto. Informática)
-* José Joaquín Aguilera García (Dpto. Informática)
-* José Ramón Balsas Almagro (Dpto. Informática)
-* Cristóbal José Carmona Del Jesus (Dpto. Informática)
-* Lina Guadalupe García Cabrera (Dpto. Informática)
-* Ángel Luis García Fernández (Dpto. Informática)
-* Manuel García Vega (Dpto. Informática)
-* Luis Martínez López (Dpto. Informática)
-* Francisco Mata Mata (Dpto. Informática)
-* Lidia Ortega Alvarado (Dpto. Informática)
-* María Dolores Pérez Godoy (Dpto. Informática)
-* Víctor M. Rivas Santos (Dpto. Informática) 🎤
-* Antonio Jesús Rivera Rivas (Dpto. Informática)
-* Ildefonso Ruano Ruano (Dpto. Ingeniería de Telecomunicación)
-* Antonio Jesús Rueda Ruiz (Dpto. Informática)
-* Pedro José Sánchez Sánchez (Dpto. Informática)
-* Luis Alfonso Ureña López (Dpto. Informática)
+## Participantes
+
+**Ángel** Inocencio Aguilera García, José Joaquín (**Chequin**) Aguilera García, **José Ramón** Balsas Almagro, **Cristóbal** José Carmona Del Jesus, **Lina** Guadalupe García Cabrera, **Ángel Luis** García Fernández, **Manuel** García Vega, **Luis** Martínez López, Francisco (**Paco**) Mata Mata, **Lidia** Ortega Alvarado, María Dolores (**Loli**) Pérez Godoy, **Víctor** M. Rivas Santos, **Antonio** Jesús Rivera Rivas, Ildefonso (**Alonso**) Ruano Ruano, **Antonio Jesús** Rueda Ruiz, **Pedro** José Sánchez Sánchez y Luis **Alfonso** Ureña López.
 
 ___
 
